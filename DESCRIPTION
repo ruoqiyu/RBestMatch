@@ -14,3 +14,5 @@ Encoding: UTF-8
 Imports: stats, plyr, mvnfast, methods, DiPs
 Suggests: optmatch
 Depends: R (>= 3.5.0)
+Note: The optmatch package, which is useful for running many of the provided functions, may be downloaded 
+    from Github at <https://github.com/markmfredrickson/optmatch> if not available on CRAN.
