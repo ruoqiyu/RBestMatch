@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "as.formula", "cov", "var", "sd", "model.matrix", "glm", "binomial")
+importFrom("plyr", "laply", "count", "daply")
+importFrom("mvnfast", "maha")
+importFrom("methods", "is")
+importFrom("DiPs", "edgenum")
